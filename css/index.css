@@ -1,0 +1,36 @@
+html, body, .divCentro {
+    height: 99%;
+}
+
+a{
+  color: black;
+}
+
+.img200px {
+    width: 200px;
+}
+
+.pieProg {
+    width: 100%;
+}
+
+.imgPie {
+    width: 25px;
+}
+
+.menuVertical {
+    border-left: 3px solid black;
+}
+
+.listaInvi {
+  opacity: 0;
+}
+
+.invi {
+  opacity: 0;
+}
+
+.smallText {
+  font-size: 8px;
+  font-style: none;
+}
