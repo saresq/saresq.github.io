@@ -1,2 +1,0 @@
-# saresq
-S. Ares Q.
